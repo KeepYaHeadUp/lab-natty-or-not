@@ -1,7 +1,7 @@
 # Podcast Explosive Heads 
 
 <audio controls>
-   <source src="https://username.github.io/repository-name/Pilot_Explosive_Heads.MP3" type="audio/mpeg">
+   <source src="https://github.com/KeepYaHeadUp/lab-natty-or-not/Pilot_Explosive_Heads.MP3" type="audio/mpeg">
    Your browser does not support the audio element.
 </audio>
 
